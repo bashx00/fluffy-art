@@ -1,0 +1,15 @@
+{
+  "name": "fluffy-art",
+  "version": "1.0.0",
+  "description": "fluffy-art est un générateur de filigrane en Node.js qui permet d'ajouter un filigrane transparent avec le nom de l'artiste à une image. Ce projet utilise les bibliothèques `Jimp` et `Canvas`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Potite_Bulle",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.4"
+  }
+}
